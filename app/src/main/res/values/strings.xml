@@ -1,0 +1,17 @@
+<resources>
+  <string name="app_name">Кино Notes </string>
+  <string name="poster_of_movie">Постер к фильму</string>
+  <string name="pupular">Популярные</string>
+  <string name="top_rate">Рейтинговые</string>
+  <string name="film">Фильм: </string>
+  <string name="rate">Рейтинг:</string>
+  <string name="release_date">Дата выхода:</string>
+  <string name="description">Описание:</string>
+  <string name="added_to_fav">Добавлено в избранные</string>
+  <string name="deleted_from_fav">Удалено из избранных</string>
+  <string name="main">Главная</string>
+  <string name="fav">Избранные</string>
+  <string name="launch_trailer">Посмотреть трейлер</string>
+  <string name="trailers">Трейлеры</string>
+  <string name="Reviews">Отзывы</string>
+</resources>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <dimen name="size_of_star">25dp</dimen>
+  <dimen name="card_image_size">75dp</dimen>
+  <dimen name="value10">10dp</dimen>
+  <dimen name="textSize">13sp</dimen>
+  <dimen name="value6">6dp</dimen>
+  <dimen name="progressBarSize">42dp</dimen>
+  <dimen name="value30">30dp</dimen>
+  <dimen name="value20">20dp</dimen>
+  <dimen name="value5">5dp</dimen>
+  <dimen name="favTitleWidth">190dp</dimen>
+  <dimen name="value25">25dp</dimen>
+  <dimen name="reviewAuthorWidth">190dp</dimen>
+  <dimen name="videoNameWidth">200dp</dimen>
+</resources>
